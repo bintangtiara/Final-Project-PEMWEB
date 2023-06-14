@@ -1,0 +1,144 @@
+body{
+	background-image: url(background.png);
+	background-size: 2500px;
+	background-repeat: no-repeat;
+	width: 2500px;
+	height: auto;
+}
+
+
+div.header{
+	width: 2480px;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+	background: linear-gradient(180deg, #3A3971 0%, #0B0D14 100%);
+}
+
+a{
+	color: white;
+	padding-left: 50px;
+	width: 66px;
+	height: 40px;
+	left: 780px;
+	top: 41px;
+	font-family: 'Baloo Da';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 40px;
+	text-decoration: none;
+	color: #FFFFFF;
+
+
+}
+
+.posisi li{
+	display: inline-block;
+	padding: 0px 0.125px;
+}
+
+.posisi{
+	padding-left: 900px;
+	padding-top: 20px;
+}
+
+div.logo{
+	position: absolute;
+	width: 136px;
+	height: 100px;
+	left: 12px;
+	top: 5px;
+	background: url('logo.png');
+}
+
+.font {
+	text-align: center;
+	margin-top: 100px;
+}
+
+.font p {
+	position: absolute;
+	width: 900px;
+	height: 500px;
+	left: 1300px;
+	top: 400px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 40px;
+	text-align: justify;
+
+	color: #ffffff;
+}
+
+.scroll {
+	width: 2500px;
+	height: 2078px;
+	left: 0px;
+	top: 178px;
+
+	background: #FFFFFF;
+
+}
+
+.img2{
+	width: 2512px;
+	height: 1378px;
+	left: 0px;
+	top: 178px;
+
+	background: #FFFFFF;
+}
+.scroll img {
+	width: 100%;
+	height: auto;
+}
+
+div.login{
+	position: absolute;
+	width: 488px;
+	height: 671px;
+	left: 511px;
+	top: 239px;
+	
+	background: #666666;
+	opacity: 0.95;
+	border-radius: 30px;
+	}
+.kotak{
+	width: 543px;
+	height: 48px;
+	left: 593px;
+	top: 427px;
+	border-radius: 10px;
+}
+.pad{
+	padding-right: 250px;
+}
+.pad2{
+	padding-right: 400px;
+}
+.signup{
+	position: absolute;
+	width: 688px;
+	height: 671px;
+	left: 521px;
+	top: 240px;
+	right: 1000px;
+
+	background: #666666;
+	opacity: 0.95;
+	border-radius: 30px;
+}
+
+.blue2{
+	color: blue;
+}
+
+
+	
+
+

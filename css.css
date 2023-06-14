@@ -1,0 +1,93 @@
+body{
+	background-image: url(background.png);
+	background-size: 1900px;
+	background-repeat: no-repeat;
+	width: 1900px;
+	height: auto;
+}	
+
+div.header{
+	position: fixed;
+	width: 1900px;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+	background-color: rgba(58, 57, 113, 1);
+}
+
+a{
+	color: white;
+	padding-left: 50px;
+	width: 66px;
+	height: 40px;
+	left: 780px;
+	top: 41px;
+	font-family: 'Baloo Da';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 40px;
+	text-decoration: none;
+	color: #FFFFFF;
+
+
+}
+
+.posisi li{
+	display: inline-block;
+	padding: 0px 0.125px;
+}
+
+.posisi{
+	padding-left: 500px;
+	padding-top: 20px;
+}
+
+div.logo{
+	position: absolute;
+	width: 136px;
+	height: 100px;
+	left: 12px;
+	top: 5px;
+	background: url('logo.png');
+}
+
+div.login{
+position: absolute;
+width: 488px;
+height: 671px;
+left: 511px;
+top: 239px;
+
+background: #666666;
+opacity: 0.95;
+border-radius: 30px;
+}
+.kotak{
+	width: 543px;
+	height: 48px;
+	left: 593px;
+	top: 427px;
+	border-radius: 10px;
+}
+.pad{
+	padding-right: 250px;
+}
+.pad2{
+	padding-right: 400px;
+}
+div.signup{
+	width: 688px;
+	height: 671px;
+	left: 521px;
+	top: 240px;
+
+	background: #666666;
+	opacity: 0.95;
+	border-radius: 30px;
+}
+
+.blue2{
+	color: blue;
+}
+
